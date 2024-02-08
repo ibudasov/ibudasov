@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20Igor&desc=Cloud%20Engineering,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
 
-- [Download CV](Igor_Budasov_CV.pdf)
 - 🔭 I’m currently working on becoming a Consultant Cloud Engineer
 - 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on an open source library. Just taking my time to look around
