@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on becoming a Consultant Cloud Engineer
 - 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on an open source library. Just taking my time to look around
 - 🤔 I’m looking for help with Hybrid and Multi Cloud setup
-- 💬 Ask me about outdoors and kiting 🪂
 
 - Positions
   
