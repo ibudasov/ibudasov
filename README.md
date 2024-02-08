@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFBF00,100:00BFFF&height=200&section=header&text=Hi,%20this%20is%20Igor&fontSize=45)
 
-- [Download CV](Igor_Budasov_CV.pdf) — [![Downloaded today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fibudasov2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com) 
+- [Download CV](Igor_Budasov_CV.pdf) [![Downloaded today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fibudasov2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 - Language Skills
 
