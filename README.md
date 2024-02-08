@@ -1,8 +1,8 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fibudasov2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![CMcom](https://img.shields.io/badge/CMcom-PrincipalEngineer-orange)
-![mollie](https://img.shields.io/badge/Mollie-SRE-red)
-![Persgroep](https://img.shields.io/badge/Persgroep-DevOps-blue)
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFBF00,100:00BFFF&height=200&section=header&text=Hi,%20this%20is%20Igor&fontSize=45)
+
+- [Download CV](Igor_Budasov_CV.pdf) — [![Downloaded today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fibudasov2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=downloaded-today&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 - Language Skills
 
@@ -12,11 +12,18 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/Shell_Script-6E6B6A?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+- Positions
+
+![CMcom](https://img.shields.io/badge/CMcom-PrincipalEngineer-orange)
+![mollie](https://img.shields.io/badge/Mollie-SRE-red)
+![Persgroep](https://img.shields.io/badge/Persgroep-DevOps-blue)
+
+
 - Contribute
 
 ![php7-iptc-manager](https://img.shields.io/badge/IPTCManager-D9F8F9?style=for-the-badge&logo=PHP&logoColor=E5902D)
 
-- 🔭 I’m currently working on becoming a Lead Cloud Engineer
+- 🔭 I’m currently working on becoming a Consultant Cloud Engineer
 - 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on an open source library. Just taking my time to look around.
 - 🤔 I’m looking for help with Hybrid and Multi Cloud setup.
