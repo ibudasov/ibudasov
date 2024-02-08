@@ -1,18 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Hi,%20I%20am%20Igor&desc=Cloud%20Engineering,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
-
-- 🔭 I’m currently working on becoming a Consultant Cloud Engineer
-- 🌱 I’m currently learning Azure
-- 🤔 I’m looking for help with Hybrid and Multi Cloud setup
-
-- Positions
-  
-![CMcom](https://img.shields.io/badge/CMcom-PrincipalEngineer-orange)
-![mollie](https://img.shields.io/badge/Mollie-SRE-red)
-![Persgroep](https://img.shields.io/badge/Persgroep-DevOps-blue)
-
-- Contribute
-
-![php7-iptc-manager](https://img.shields.io/badge/IPTCManager-D9F8F9?style=for-the-badge&logo=PHP&logoColor=E5902D)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20Igor&desc=Cloud%20Engineering,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=ibudasov&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=false">
