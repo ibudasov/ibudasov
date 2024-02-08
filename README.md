@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20Igor&desc=Cloud%20Engineering,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Hi,%20I%20am%20Igor&desc=Cloud%20Engineering,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
 
 - 🔭 I’m currently working on becoming a Consultant Cloud Engineer
 - 🌱 I’m currently learning Azure
