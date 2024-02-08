@@ -7,13 +7,6 @@
 - 🤔 I’m looking for help with Hybrid and Multi Cloud setup
 - 💬 Ask me about outdoors and kiting 🪂
 
-- Language Skills
-  
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 - Positions
   
 ![CMcom](https://img.shields.io/badge/CMcom-PrincipalEngineer-orange)
