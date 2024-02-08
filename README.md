@@ -35,3 +35,7 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ibudasov&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ibudasov&theme=solarized-light&hide_border=true&background=FFFFFF00">
 </p>
+
+<p align="right">
+  <img src="https://profile-counter.glitch.me/ibudasov/count.svg" />
+</p>
