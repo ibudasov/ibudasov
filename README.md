@@ -11,7 +11,7 @@
   <a href="https://github.com/ibudasov/ibudasov/blob/main/Igor_Budasov_CV.pdf">
     <img src="https://img.shields.io/badge/DOWNLOAD CV-A3C1AD?style=for-the-badge&logo=microsoftword&logoColor=000000"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://cal.com/igor-f9isjp/15min">
     <img src="https://img.shields.io/badge/BOOK_A_CALL-BDC9D7?style=for-the-badge&logo=googlemeet&logoColor=000000"/>
   </a>
