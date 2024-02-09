@@ -1,16 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20Igør&desc=Cloud%20Engineering,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
 
+  
 <p align="center">
   <a href="https://github.com/ibudasov/ibudasov/blob/main/Igor_Budasov_CV.pdf">
     <img src="https://img.shields.io/badge/DOWNLOAD CV-A3C1AD?style=for-the-badge&logo=microsoftword&logoColor=000000"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:igor.budasov📅icloud.com">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cal.com/igor-f9isjp/15min">
     <img src="https://img.shields.io/badge/BOOK_A_CALL-BDC9D7?style=for-the-badge&logo=gmail&logoColor=000000"/>
   </a>
 </p>
+
 <br>
 <br>
+
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ibudasov&theme=solarized-light&hide_border=true&background=FFFFFF00">
   
