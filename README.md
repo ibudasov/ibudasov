@@ -13,7 +13,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cal.com/igor-f9isjp/15min">
-    <img src="https://img.shields.io/badge/BOOK_A_CALL-BDC9D7?style=for-the-badge&logo=gmail&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/BOOK_A_CALL-BDC9D7?style=for-the-badge&logo=googlemeet&logoColor=000000"/>
   </a>
 </p>
 
