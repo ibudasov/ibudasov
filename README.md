@@ -1,5 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20Igør&desc=Cloud%20Engineering,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hoi,%20I%20am%20Igør&desc=Cloud%20Engineering,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
 
+- Comfortable with working remotely or hybrid way. 
+- Prefer to work 36 hours a week. It is flexible.
+- Find gezellige team and DevOps engineering culture extra important. 
+- I am fine with Freelance/Consultancy/Payroll.
+- A possibility to work a few weeks from abroad is welcome.
+- Mijn Nederlands is goed genoeg alleen voor een small talk. Het is niet goed voor business.
   
 <p align="center">
   <a href="https://github.com/ibudasov/ibudasov/blob/main/Igor_Budasov_CV.pdf">
