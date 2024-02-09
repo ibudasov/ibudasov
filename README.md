@@ -11,8 +11,6 @@
 </p>
 <br>
 <br>
-<br>
-
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ibudasov&theme=solarized-light&hide_border=true&background=FFFFFF00">
   
