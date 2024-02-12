@@ -1,4 +1,5 @@
 install:
+	theme: jekyll-theme-yat
   # https://gist.github.com/georgiana-gligor/fd247d02f8a44ce745db
 	brew install pandoc
 	brew install --cask basictex
