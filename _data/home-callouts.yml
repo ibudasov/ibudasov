@@ -3,10 +3,16 @@ items:
   - title: Download my CV
     subtitle: Including my skills, certifications and career highlights
     icon: fa-copy
+    call_to_action_name: Download my CV
+    call_to_action_link: https://github.com/ibudasov/ibudasov/blob/main/Igor_Budasov_CV.pdf
   - title: Book a Call
     subtitle: Schedule a call with me to discuss your project
     icon: fa-mail-bulk
+    call_to_action_name: Book a Call
+    call_to_action_link: https://cal.com/igor-f9isjp/15min
   - title: See my GitHub
     subtitle: Talking is cheap, show me the code
     icon: fa-github
     icon_brand: true
+    call_to_action_name: See my GitHub
+    call_to_action_link: https://www.linkedin.com/in/igorbudasov/

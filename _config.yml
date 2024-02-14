@@ -7,3 +7,11 @@ description: Cloud Engineering, Operations, Security and Reliability
 footer_menu: footer_menu
 gh_sponsor: ibudasov
 hide_share_buttons: false
+hero_callouts:
+  style: is-light
+  items:
+    - title: Download my CV
+      subtitle: Including my skills, certifications and career highlights
+      icon: fa-copy
+      call_to_action_name: Download my CV
+      call_to_action_link:
