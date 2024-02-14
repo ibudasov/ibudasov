@@ -1,12 +1,11 @@
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
+# remote_theme: chrisrhymes/bulma-clean-theme
+
 title: Igor Budasov
 subtitle: The page subtitle
 description: Cloud Engineering, Operations, Security and Reliability
 
-remote_theme: chrisrhymes/bulma-clean-theme
-footer_menu: footer_menu
-gh_sponsor: ibudasov
-hide_share_buttons: false
 baseurl: "/ibudasov"
 plugins:
 - github-pages
+- jekyll-remote-theme 
