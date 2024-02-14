@@ -2,7 +2,7 @@
 # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme
 title: Igor Budasov
+subtitle: The page subtitle
 description: Cloud Engineering, Operations, Security and Reliability
-github:
-  zip_url: https://github.com/ibudasov/ibudasov/blob/main/Igor_Budasov_CV.pdf
-  book_a_call: https://cal.com/igor-f9isjp/15min
+footer_menu: footer_menu
+gh_sponsor: ibudasov
