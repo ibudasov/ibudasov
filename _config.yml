@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme
 title: Igor Budasov
 description: Cloud Engineering, Operations, Security and Reliability
 github:
