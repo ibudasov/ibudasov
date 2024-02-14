@@ -8,6 +8,8 @@
 - I am fine with Freelance/Consultancy/Payroll.
 - A possibility to work a few weeks from abroad is welcome.
 - Mijn Nederlands is goed genoeg alleen voor een small talk. Het is niet goed voor business.
+<!--
+
 <p align="center">
   <a href="https://github.com/ibudasov/ibudasov/blob/main/Igor_Budasov_CV.pdf">
     <img src="https://img.shields.io/badge/DOWNLOAD CV-A3C1AD?style=for-the-badge&logo=microsoftword&logoColor=000000"/>
@@ -20,7 +22,6 @@
 
 <br>
 <br>
-<!--
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ibudasov&theme=solarized-light&hide_border=true&background=FFFFFF00">
   
   <img src ="https://github-readme-stats.vercel.app/api?username=ibudasov&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=false">
