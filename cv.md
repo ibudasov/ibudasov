@@ -9,7 +9,7 @@ Being high in conscientiousness and dominance (DISC), gives me ability to work i
 ## Skills	
 - **GCP**: Serverfull and Serverless, CI/CD, multi-zone, networking, security
 - **AWS**: Serverfull, multi-zone, ELK stack
-- **Azure**: AKS
+- **Azure**: Event Hub, Event Grid, Service Bus, Container Apps, Function Apps, Virtual Network, Cosmos
 - **OPS**: Terraform, Kubernetes, Helm, Prometheus, Grafana, Ansible, Gradle, Jenkins, Swagger, Supervisor, DockerCompose, GitHubActions
 - **Communication**: Kafka (Confluent, Strimzi, KSql, SteramingAPI), GraphQL, RabbitMQ, REST
 - **Databases/Storage**: MariaDB(Gallera), MySQL, PostgreSQL, MongoDB, Redis 
