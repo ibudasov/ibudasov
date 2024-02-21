@@ -1,4 +1,6 @@
-# Career milestones
+# Igor 
+
+## Career milestones
 - In the industry since 2007. Have background in Backend Software engineering with LAMP & MEAN
 - In 2016 certified as AWS Solution architect and started my Cloud career
 - Worked at De Persgroup with Kubernetes, ElasticSearch and best seen implementation of Scruum and DevOps
@@ -20,7 +22,7 @@
     - Modernized one of our old products, so it could handle modern load
 
  
-# Way of working
+## Way of working
 - Comfortable with working remotely or hybrid way. 
 - Prefer to work 36 hours a week. It is flexible.
 - Find gezellige team and DevOps engineering culture extra important. 
