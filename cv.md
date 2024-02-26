@@ -36,6 +36,7 @@ Being high in conscientiousness and dominance (DISC), gives me ability to work i
 - `ibudasov/php7-iptc-manager` — open source library for PHP
 
 ## Books	
+- **The McKinsey Way** — E. Rasiel
 - **Monitoring modern infrastructure** — J. Matson, K. Young
 - **Site Reliability Engineering** — B. Beyer, C. Jones, etc
 - **The Lean Startup** — Eric Ries Patterns of Enterprise Application Architecture — Martin Fowler
