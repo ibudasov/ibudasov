@@ -1,31 +1,24 @@
-# Igor 
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Varjag%20OPS&desc=Observability,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
 
-## Career milestones
-- In the industry since 2007. Have background in Backend Software engineering with LAMP & MEAN
-- In 2016 certified as AWS Solution architect and started my Cloud career
-- Worked at De Persgroup with Kubernetes, ElasticSearch and best seen implementation of Scruum and DevOps
-  - Impact:
-    - Absolutely all the code was covered with automated tests in multiple layers
-    - Speed of returning search results was increased, which increased SEO ranking
-    - After switch to Kubernetes the cost of hosting decreased dramatically
-    - Many many new features were A/B tested and implemented
-    - SEO ranking of the website was improved
-- Then worked as a Backend SWE and SRE at Mollie in [PCI DSS](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard) environment
-  - Impact:
-    - Reliability of CreditCard platform
-- Principal Engineer at CM
-  - Impact:
-    - Migrated 1 of our projects to GCP
-    - Terraformed and POCed migration of another project to GCP
-    - Set up Kafka with Confluent
-    - Started setting up Kafka with Strimzi in between 4 our products
-    - Modernized one of our old products, so it could handle modern load
 
- 
-## Way of working
-- Comfortable with working remotely or hybrid way. 
-- Prefer to work 36 hours a week. It is flexible.
-- Find gezellige team and DevOps engineering culture extra important. 
-- I am fine with Freelance/Consultancy/Payroll.
-- A possibility to work a few weeks from abroad is welcome.
-- Mijn Nederlands is goed genoeg alleen voor een small talk. Het is niet goed voor business.
+<!--
+
+  <a href="https://github.com/ibudasov/ibudasov/blob/main/Igor_Budasov_CV.pdf">
+    <img src="https://img.shields.io/badge/DOWNLOAD CV-A3C1AD?style=for-the-badge&logo=microsoftword&logoColor=000000"/>
+  </a>
+  &nbsp;
+  <a href="https://cal.com/igor-f9isjp/15min">
+    <img src="https://img.shields.io/badge/BOOK_A_CALL-BDC9D7?style=for-the-badge&logo=googlemeet&logoColor=000000"/>
+  </a>
+</p>
+
+-->
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ibudasov&theme=solarized-light&hide_border=true&background=FFFFFF00">
+  
+  <img src ="https://github-readme-stats.vercel.app/api?username=ibudasov&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=false">
+
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ibudasov&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8">
+
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flmc999%2Fibudasov&count_bg=%230AC995&title_bg=%23004BF9&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+
+</p>
