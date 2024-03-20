@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hoi,%20I%20am%20Igor&desc=Observability,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=holistic&desc=Observability,%20Operations,%20Security%20and%20Reliability&descAlignY=66)
 
 
 <!--
